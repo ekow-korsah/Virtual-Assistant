@@ -1,0 +1,2 @@
+# Virtual-Assistant
+This is a virtual assitant bot created with python. It makes use of googles speech recognition API and uses the python library pyttsx3. This application is able to take human speech as an input and then convert it into text and go ahead and run the human command. The program is able to take search input and go online and produce results for the user. It also provides information on the dates, and current times when the system is run 
